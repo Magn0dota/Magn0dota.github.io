@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.36b9c053.chunk.css",
+    "main.js": "/static/js/main.8e068772.chunk.js",
+    "main.js.map": "/static/js/main.8e068772.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.719475b5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.719475b5.js.map",
+    "static/css/2.383c0125.chunk.css": "/static/css/2.383c0125.chunk.css",
+    "static/js/2.11892ef5.chunk.js": "/static/js/2.11892ef5.chunk.js",
+    "static/js/2.11892ef5.chunk.js.map": "/static/js/2.11892ef5.chunk.js.map",
+    "static/js/3.591d5fa2.chunk.js": "/static/js/3.591d5fa2.chunk.js",
+    "static/js/3.591d5fa2.chunk.js.map": "/static/js/3.591d5fa2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.36b9c053.chunk.css.map": "/static/css/main.36b9c053.chunk.css.map",
+    "static/js/2.11892ef5.chunk.js.LICENSE.txt": "/static/js/2.11892ef5.chunk.js.LICENSE.txt",
+    "static/media/background.149ec4a4.jpg": "/static/media/background.149ec4a4.jpg",
+    "static/media/discord.jpg": "/static/media/discord.f3a53880.jpg",
+    "static/media/googledrive.jpg": "/static/media/googledrive.63cc8e80.jpg",
+    "static/media/googlemeet.jpg": "/static/media/googlemeet.dfa0bd79.jpg",
+    "static/media/libreoffice.jpg": "/static/media/libreoffice.b2af90be.jpg",
+    "static/media/msoffice.jpg": "/static/media/msoffice.8d28d6be.jpg",
+    "static/media/zoom.jpg": "/static/media/zoom.8ead448b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.719475b5.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.11892ef5.chunk.js",
+    "static/css/main.36b9c053.chunk.css",
+    "static/js/main.8e068772.chunk.js"
+  ]
+}
